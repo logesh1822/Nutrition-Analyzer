@@ -3,7 +3,7 @@ import google.generativeai as genai
 from PIL import Image
 
 # Set your Google API Key here
-api_key = "AIzaSyATxC68T5dgaFYBz1D1h7TKch7UvyfCEuM"
+api_key = "#your api here#"
 
 # Set page configuration
 st.set_page_config(page_title="NutriFy ")
