@@ -1,0 +1,27 @@
+/* styles.css */
+
+/* Align all items to the left side */
+.stApp {
+    align-items: flex-start;
+    text-align: left;
+}
+
+/* Align the title to the center */
+.stTitle {
+    text-align: center;
+}
+
+/* Set background color to pale green */
+body {
+    background-color: #1ab71a; /* pale green */
+}
+
+/* Set text color to green */
+.stTextInput, .stFileUploader, .stButton {
+    color: #006400; /* dark green */
+}
+
+/* Set background color for buttons to green */
+.stButton {
+    background-color: #90ee90; /* light green */
+}
